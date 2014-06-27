@@ -1,0 +1,16 @@
+And(a=nsel0,b=nsel1,out=a[0]);
+And(a=nsel0,b=nsel1,out=a[1]);
+And(a=nsel0,b=nsel1,out=a[2]);
+And(a=nsel0,b=nsel1,out=a[3]);
+And(a=nsel0,b=nsel1,out=a[4]);
+And(a=nsel0,b=nsel1,out=a[5]);
+And(a=nsel0,b=nsel1,out=a[6]);
+And(a=nsel0,b=nsel1,out=a[7]);
+And(a=nsel0,b=nsel1,out=a[8]);
+And(a=nsel0,b=nsel1,out=a[9]);
+And(a=nsel0,b=nsel1,out=a[10]);
+And(a=nsel0,b=nsel1,out=a[11]);
+And(a=nsel0,b=nsel1,out=a[12]);
+And(a=nsel0,b=nsel1,out=a[13]);
+And(a=nsel0,b=nsel1,out=a[14]);
+And(a=nsel0,b=nsel1,out=a[15]);

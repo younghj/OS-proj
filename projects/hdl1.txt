@@ -1,0 +1,16 @@
+And(a=out[0],b=true,out=out[0]);
+And(a=out[0],b=true,out=out[1]);
+And(a=out[0],b=true,out=out[2]);
+And(a=out[0],b=true,out=out[3]);
+And(a=out[0],b=true,out=out[4]);
+And(a=out[0],b=true,out=out[5]);
+And(a=out[0],b=true,out=out[6]);
+And(a=out[0],b=true,out=out[7]);
+And(a=out[0],b=true,out=out[8]);
+And(a=out[0],b=true,out=out[9]);
+And(a=out[0],b=true,out=out[10]);
+And(a=out[0],b=true,out=out[11]);
+And(a=out[0],b=true,out=out[12]);
+And(a=out[0],b=true,out=out[13]);
+And(a=out[0],b=true,out=out[14]);
+And(a=out[0],b=true,out=out[15]);

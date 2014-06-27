@@ -1,0 +1,16 @@
+Or8Way(in[0]=temp10,in[1]=temp20,in[2]=temp30,in[3]=temp40,in[4]=false,in[5]=false,in[6]=false,in[7]=false,out=out[0]);
+Or8Way(in[0]=temp11,in[1]=temp21,in[2]=temp31,in[3]=temp41,in[4]=false,in[5]=false,in[6]=false,in[7]=false,out=out[1]);
+Or8Way(in[0]=temp12,in[1]=temp22,in[2]=temp32,in[3]=temp42,in[4]=false,in[5]=false,in[6]=false,in[7]=false,out=out[2]);
+Or8Way(in[0]=temp13,in[1]=temp23,in[2]=temp33,in[3]=temp43,in[4]=false,in[5]=false,in[6]=false,in[7]=false,out=out[3]);
+Or8Way(in[0]=temp14,in[1]=temp24,in[2]=temp34,in[3]=temp44,in[4]=false,in[5]=false,in[6]=false,in[7]=false,out=out[4]);
+Or8Way(in[0]=temp15,in[1]=temp25,in[2]=temp35,in[3]=temp45,in[4]=false,in[5]=false,in[6]=false,in[7]=false,out=out[5]);
+Or8Way(in[0]=temp16,in[1]=temp26,in[2]=temp36,in[3]=temp46,in[4]=false,in[5]=false,in[6]=false,in[7]=false,out=out[6]);
+Or8Way(in[0]=temp17,in[1]=temp27,in[2]=temp37,in[3]=temp47,in[4]=false,in[5]=false,in[6]=false,in[7]=false,out=out[7]);
+Or8Way(in[0]=temp18,in[1]=temp28,in[2]=temp38,in[3]=temp48,in[4]=false,in[5]=false,in[6]=false,in[7]=false,out=out[8]);
+Or8Way(in[0]=temp19,in[1]=temp29,in[2]=temp39,in[3]=temp49,in[4]=false,in[5]=false,in[6]=false,in[7]=false,out=out[9]);
+Or8Way(in[0]=temp110,in[1]=temp210,in[2]=temp310,in[3]=temp410,in[4]=false,in[5]=false,in[6]=false,in[7]=false,out=out[10]);
+Or8Way(in[0]=temp111,in[1]=temp211,in[2]=temp311,in[3]=temp411,in[4]=false,in[5]=false,in[6]=false,in[7]=false,out=out[11]);
+Or8Way(in[0]=temp112,in[1]=temp212,in[2]=temp312,in[3]=temp412,in[4]=false,in[5]=false,in[6]=false,in[7]=false,out=out[12]);
+Or8Way(in[0]=temp113,in[1]=temp213,in[2]=temp313,in[3]=temp413,in[4]=false,in[5]=false,in[6]=false,in[7]=false,out=out[13]);
+Or8Way(in[0]=temp114,in[1]=temp214,in[2]=temp314,in[3]=temp414,in[4]=false,in[5]=false,in[6]=false,in[7]=false,out=out[14]);
+Or8Way(in[0]=temp115,in[1]=temp215,in[2]=temp315,in[3]=temp415,in[4]=false,in[5]=false,in[6]=false,in[7]=false,out=out[15]);

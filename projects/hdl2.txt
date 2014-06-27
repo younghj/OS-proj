@@ -1,0 +1,16 @@
+And(a=r4,b=d[0],out=temp40);
+And(a=r4,b=d[1],out=temp41);
+And(a=r4,b=d[2],out=temp42);
+And(a=r4,b=d[3],out=temp43);
+And(a=r4,b=d[4],out=temp44);
+And(a=r4,b=d[5],out=temp45);
+And(a=r4,b=d[6],out=temp46);
+And(a=r4,b=d[7],out=temp47);
+And(a=r4,b=d[8],out=temp48);
+And(a=r4,b=d[9],out=temp49);
+And(a=r4,b=d[10],out=temp410);
+And(a=r4,b=d[11],out=temp411);
+And(a=r4,b=d[12],out=temp412);
+And(a=r4,b=d[13],out=temp413);
+And(a=r4,b=d[14],out=temp414);
+And(a=r4,b=d[15],out=temp415);
